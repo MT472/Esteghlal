@@ -1,0 +1,9 @@
+li{
+    display: inline;
+    background-color: rgb(252, 255, 89);
+    color: blue;
+    padding:20px;
+}
+a{
+    text-decoration-line:none ;
+}
